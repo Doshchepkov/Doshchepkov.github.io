@@ -33,6 +33,25 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>https://example.com/post/ggit/</link>
+      <pubDate>Thu, 16 Mar 2023 21:36:18 +0300</pubDate>
+      <guid>https://example.com/post/ggit/</guid>
+      <description>&lt;p&gt;Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).&lt;/p&gt;
+&lt;p&gt;Git was originally authored by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development. Since 2005, Junio Hamano has been the core maintainer. As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking abilities, independent of network access or a central server. Git is free and open-source software distributed under the GPL-2.0-only license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>https://example.com/post/last_week/</link>
+      <pubDate>Thu, 16 Mar 2023 20:15:33 +0300</pubDate>
+      <guid>https://example.com/post/last_week/</guid>
+      <description>&lt;p&gt;Last week I learned how to integrate functions of different types, I used to only joke about it, but now I am part of a subculture about jokes about integrals&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -216,7 +235,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-769158234&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-816497253&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +245,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-769158234&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-816497253&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
