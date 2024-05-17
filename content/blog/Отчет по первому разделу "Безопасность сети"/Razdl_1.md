@@ -166,7 +166,7 @@ header-includes:
 
 # Список литературы{.unnumbered}
 
-Внешний курс ["Основы кибербезопасности"](https://stepik.org/course/111512)
+Внешний курс. ["Основы кибербезопасности"](https://stepik.org/course/111512)
 
 ::: {#refs}
 :::
