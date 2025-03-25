@@ -4,8 +4,8 @@ title: Oshchepkov Dmitry
 
 
 # Full name (for SEO)
-first_name: Dmitry
-last_name: Oshchepkov
+first_name: Неравновесная агрегация, 
+last_name: фракталы
 
 # Status emoji
 status:
