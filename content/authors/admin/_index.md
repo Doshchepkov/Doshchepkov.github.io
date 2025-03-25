@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oshchepkov Dmitry
+title: Неравновесная агрегация, фракталы
 
 
 # Full name (for SEO)
